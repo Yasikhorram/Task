@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <title>Yas</title>
+        
+        <link href="https://fonts.googleapis.com/css?family=Codystar" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Monoton" rel="stylesheet">
+
+
+<link href="https://fonts.googleapis.com/css?family=Libre+Barcode+39+Text" rel="stylesheet">
+        
+
+        
+        <link rel="stylesheet" href="css/iranstyle.css">
+     </head>
+    <body>
+        <h1>Dream Chaser</h1>
+        <img src="img/Logo.png" width="400px">
+        
+                <h2>This is Yasi</h2>
+
+        
+            <h3>Im Here To Break The Rules and Do the Magic for You!</h3>
+        <h4>|<a href="myresume.html">Resume</a>|</h4>
+
+    </body>
+    </html>
+    
