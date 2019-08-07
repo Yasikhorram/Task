@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <title>Explore</title>
+        
+        <link href="https://fonts.googleapis.com/css?family=Codystar" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Libre+Barcode+39+Text" rel="stylesheet">
+
+        
+        <link rel="stylesheet" href="css/iranstyle.css">
+     </head>
+    
+    <body>
+        <h1>YASAMAN KHORRAM</h1>
+        <img src="img/TEHSF.png" width="1500">
+        
+                
+
+        
+            	
+<p>San Francisco, CA │ khorramyasaman@gmail.com │ (415) 919-9464</p>
+
+<h5>SUMMARY</h5>
+
+<p>Life for me has always been a challenging, unpredictable, rollercoaster-like journey. 
+When it comes to design, I have a thirst for solving problems and bringing my unique perspective to formulate solutions - all while centered around my philosophy that most complicated cases can break down to the simplest chunk of work.</p>
+
+<h5>EDUCATION</h5>
+
+<p>
+    <ul>
+        <li>City College of San Francisco:Web production</li>
+<li>Azad University (Iran): Bachelor of Arts in Law (June 2012)</li>
+        
+        
+        </ul>
+        </p>
+    
+
+<h5>EXPERIENCE</h5>
+
+<p>Distant Learning Faculty Assistant, Tech Learning Center, San Francisco, CA			     March 2017 to Present	
+Assist faculty with setting up online e-learning systems
+Provide information to faculty one-on-one and resolve their questions and concerns
+
+Customer Relationship Supervisor, Farmand (Farmand.ir/en), Iran		            December 2014 to December 2016
+Responsible for sales and business relationship with our largest client with sales volume of over $1M per month
+Supervised merchandising and product placements in all 400+ stores to maximize exposure and sales
+Increased top and bottom line revenues on a monthly basis to remain the top producing Relationship Supervisor
+
+Apprentice in Law, Foadian Law Practice, Iran					       November 2013 to December 2014
+Supported three attorneys with their paralegal work in corporate and real estate law practice
+Performed extensive research in various law subjects specific to each case
+
+Apprentice in Law, Vazirnezami Law Practice, Iran			   June 2012 to November 2013
+Supported four attorneys with their paralegal work in family law practice
+Handled initial meetings with each client and collected all information necessary .</p>
+
+
+<h5>SKILLS/INTERESTS</h5>
+
+<p>
+    <UL><LI>Knowledge of HTML & CSS</LI>
+        <LI>Familiar with Photoshop, Illustrator and InDesign</LI>
+        <LI>Fluent in writing and speaking Farsi, and extensive knowledge of Turkish language</LI>
+        <LI>Passionate about learning new technologies, traveling, photography, and arts</LI>
+        
+    </UL> 
+
+</p>
+
+        <h10><a href="myresume.html">Resume</a></h10>
+
+    </body>
+    </html>
+    
